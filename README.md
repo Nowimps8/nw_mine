@@ -1,4 +1,4 @@
-Mineshaft with open doors, and added lighting (while stil preserving the spooky mine feeling)
+Mineshaft with open doors, and added lighting (while still preserving the spooky mine feeling)
 
 This adds open doors, and allows you to walk right in from off the street, with improved lighting (Cause its dark AF without it).
 
