@@ -1,4 +1,6 @@
-UPDATED Version 2.0
+UPDATED:
+
+## Version 2.0
 
 Enhanced Illumination through Light Emission, Thanks to Popular Demand
 
@@ -9,7 +11,7 @@ This resource introduces unobstructed entryways, allowing effortless access dire
 ![screenshot 1](https://i.gyazo.com/f25df451a049eef4befa231c7b6ff914.jpg)
 ![screenshot 2](https://i.gyazo.com/0406a082e6a78232d92c71b5cb4a361f.jpg)
 
-Installation Instructions:
+## Installation Instructions:
 
 1) Download the resource package.<br>
 2) Place the "nw_mine" folder within your designated resource directory.<br>
@@ -18,4 +20,5 @@ Installation Instructions:
 
 Should you require further assistance or information, do not hesitate to reach out.
 
-nw_mine © 2018 by Nowimps8 is licensed under CC BY-NC 4.0 
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/3.0/88x31.png" /></a>
