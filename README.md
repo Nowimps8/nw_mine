@@ -17,3 +17,5 @@ Installation Instructions:
 4) Achieve success!<br><br>
 
 Should you require further assistance or information, do not hesitate to reach out.
+
+nw_mine © 2018 by Nowimps8 is licensed under CC BY-NC 4.0 
