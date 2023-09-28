@@ -15,7 +15,7 @@ This resource introduces unobstructed entryways, allowing effortless access dire
 
 1) Download the resource package.<br>
 2) Place the "nw_mine" folder within your designated resource directory.<br>
-3) Include "ensure nw_mine" in your server configuration file (server.cfg).<br>
+3) Include ``ensure nw_mine`` in your server configuration file (server.cfg).<br>
 4) Achieve success!<br><br>
 
 Should you require further assistance or information, do not hesitate to reach out.
